@@ -704,8 +704,8 @@ section{
 }
 .content1{
     position: absolute;
-    width: 750px;
-    height: 700px;
+    width: 700px;
+    height: 400px;
     background-image: radial-gradient(circle farthest-corner at center, #f9edf3 10%, #ffd3ee 100%);
     border-radius: 10px 70px 10px 70px;
     box-shadow: 5px 5px 10px rgb(0, 0, 0);
@@ -795,7 +795,7 @@ section{
 }
 .image-santa-content{
     position: relative;
-    left: 320px;
+    left: 187px;
     width: 100%;
 }
 .image-santa-content img{
@@ -811,7 +811,7 @@ section{
 }
 .image-decorate .pineTree{
     position: absolute;
-    right: -30px;
+    right: 5px;
     bottom: 20px;
     filter: drop-shadow(0 2px 1px #333);
 }

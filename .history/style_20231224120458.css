@@ -704,7 +704,7 @@ section{
 }
 .content1{
     position: absolute;
-    width: 750px;
+    width: 800px;
     height: 700px;
     background-image: radial-gradient(circle farthest-corner at center, #f9edf3 10%, #ffd3ee 100%);
     border-radius: 10px 70px 10px 70px;
@@ -795,7 +795,7 @@ section{
 }
 .image-santa-content{
     position: relative;
-    left: 320px;
+    left: 60px;
     width: 100%;
 }
 .image-santa-content img{
